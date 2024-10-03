@@ -1,0 +1,26 @@
+
+Para este mini exercício-programa, a linguagem c++20 foi utilizada. O executável do programa recebe o número de sapos/rãs do puzzle que é definido pela variável SIZE dentro do Makefile. Para compilar e executar o programa, basta rodar o comando “make all”.
+
+Para a implementação do exercício, considere:
+	- N = M;
+	- As rãs são representadas pelo array de threads "blue_frogs";
+	- Os sapos são representados pelo array de threads "green_frogs";
+	- Um vetor de inteiros dentro da struct JumpingFrogsPuzzle representa as pedras. O tamanho do vetor é N + M + 1. Além disso, as rãs são representadas pelo inteiro 1 e os sapos pelo inteiro 2.
+	- Ademais, a struct JumpingFrogsPuzzle contém as variáveis size, no qual size = SIZE (Makefile), um inteiro alocado dinamicamente que contém o id da thread atual sendo executada, um mutex, e o contador do puzzle (árbitro). 
+
+Na função main(), temos a instanciação do puzzle e das threads. Dentro de um laço no intervalo de o a N, as threads são criadas:
+	status = pthread_create(&blue_frogs[i], NULL, &blue_frog_try_jump,
+                        	(void*)&puzzle);
+
+	pthread_create() recebe a respectiva thread da iteração, tem como retorno NULL, irá executar o método blue_frog_try_jump e recebe como parâmetro a instância do puzzle. O mesmo vale para as threads de "green_frogs".
+Em outro laço, a função pthread_join() indica para as threads terminarem a execução.
+
+Os métodos  blue_frog_try_jump e green_frog_try_jump contém toda a lógica do jogo e a sincronização das threads. 
+Dentro de um laço com execução ininterrupta:
+o mutex indica o início de uma região crítica (lock da thread), tenta executar um salto (e o faz, se for possível);
+verifica se o puzzle foi concluído ou se está num estado de deadlock. Se estiver resolvido, o programa finaliza. Se estiver em deadlock, o programa encerra indicando erro. Caso contrário, realiza unlock e prossegue com a execução. 
+
+Na maioria das execuções, o puzzle entrou em deadlock: 
+Com N = 2 , o contador raramente passa de 10.
+Com N = 3, o contador chegou a 30, mas o jogo foi concluído em algumas (poucas) execuções.
+Para N = 4, deadlock foi detectado com diferentes valores de MAX_COUNT (20, 30, 50 e 100).

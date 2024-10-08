@@ -1,6 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+#include <pthread.h>
+#include <errno.h>
+
+#define NUM_THREADS 5
+
+typedef struct Iteration{
+    int start;
+    int end;
+} Iteration;
 
 double c_x_min;
 double c_x_max;
@@ -111,7 +120,9 @@ void write_to_file(){
     fclose(file);
 };
 
-void compute_mandelbrot(){
+void* compute_mandelbrot(void* args){
+    Iteration* iter = (Iteration*) args;
+
     double z_x;
     double z_y;
     double z_x_squared;
@@ -125,7 +136,7 @@ void compute_mandelbrot(){
     double c_x;
     double c_y;
 
-    for(i_y = 0; i_y < i_y_max; i_y++){
+    for(i_y = iter->start; i_y < iter->end; i_y++){
         c_y = c_y_min + i_y * pixel_height;
 
         if(fabs(c_y) < pixel_height / 2){
@@ -151,10 +162,10 @@ void compute_mandelbrot(){
                 z_x_squared = z_x * z_x;
                 z_y_squared = z_y * z_y;
             };
-
             update_rgb_buffer(iteration, i_x, i_y);
         };
     };
+    pthread_exit(NULL);
 };
 
 int main(int argc, char *argv[]){
@@ -162,9 +173,36 @@ int main(int argc, char *argv[]){
 
     allocate_image_buffer();
 
-    compute_mandelbrot();
+    pthread_t th[NUM_THREADS];
+    Iteration* iter = malloc(NUM_THREADS * sizeof(Iteration));
+
+    int range = i_y_max/NUM_THREADS;
+    int rest = i_y_max%NUM_THREADS;
+
+    int i;
+    for(i = 0; i < NUM_THREADS; i++){
+
+        if(i == 0){
+            iter[i].start = 0;
+            iter[i].end = range + rest;
+        } else {
+            iter[i].start = iter[i-1].end;
+            iter[i].end =  iter[i-1].end + range;
+        }
+
+        if(pthread_create(&th[i], NULL, compute_mandelbrot, (void*)&iter[i]) != 0)
+            perror("Failed to created thread!");
+    }
+
+    for(i = 0; i < NUM_THREADS; i++){
+        if(pthread_join(th[i], NULL) != 0){
+            perror("Failed to join thread!");
+        };
+    }
 
     write_to_file();
+    
+    free(iter);
 
     return 0;
 };

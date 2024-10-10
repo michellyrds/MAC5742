@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+#include <omp.h>
+
+#define NUM_THREADS 16
 
 double c_x_min;
 double c_x_max;
@@ -125,6 +128,7 @@ void compute_mandelbrot(){
     double c_x;
     double c_y;
 
+    #pragma omp parallel for private(iteration, i_x, i_y, c_x, c_y, z_x, z_y, z_x_squared, z_y_squared) num_threads(NUM_THREADS)
     for(i_y = 0; i_y < i_y_max; i_y++){
         c_y = c_y_min + i_y * pixel_height;
 

@@ -4,7 +4,7 @@
 #include <pthread.h>
 #include <errno.h>
 
-#define NUM_THREADS 5
+#define NUM_THREADS 16
 
 typedef struct Iteration{
     int start;

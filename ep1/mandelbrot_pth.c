@@ -103,7 +103,7 @@ void update_rgb_buffer(int iteration, int x, int y){
 
 void write_to_file(){
     FILE * file;
-    char * filename               = "output.ppm";
+    char * filename               = "output_pth.ppm";
     char * comment                = "# ";
 
     int max_color_component_value = 255;

@@ -26,12 +26,10 @@ void initialize(double *h, int n) {
     }
 }
 
-
 // CUDA
 __global__ void jacobi_iteration(double *h, double *g, int n, int iter_limit) {
     int i = blockIdx.y * blockDim.y + threadIdx.y + 1;
     int j = blockIdx.x * blockDim.x + threadIdx.x + 1;
-
 
     if (i < n - 1 && j < n - 1) {
         g[i * n + j] = 0.25 * (h[(i - 1) * n + j] + h[(i + 1) * n + j] + h[i * n + (j - 1)] + h[i * n + (j + 1)]);
@@ -41,7 +39,6 @@ __global__ void jacobi_iteration(double *h, double *g, int n, int iter_limit) {
         __syncthreads();
     }
 }
-
 
 double calculate_elapsed_time(struct timespec start, struct timespec end) {
     double start_sec = (double) start.tv_sec * 1e9 + (double) start.tv_nsec;
@@ -60,7 +57,7 @@ void save_to_file(double *h, int n) {
     fclose(file);
 }
 
-int main(int argc, char * argv[]) {
+int main(int argc, char *argv[]) {
     if (argc < 5) {
         fprintf(stderr, "Uso: %s <número de pontos> <limite de iterações> <número de threads por bloco> <número de blocos por grade>\n", argv[0]);
         return 1;
@@ -71,12 +68,12 @@ int main(int argc, char * argv[]) {
     int t = atoi(argv[3]);
     int b = atoi(argv[4]);
 
-    int block_size = sqrt(t);
     b = sqrt(b);
+    int block_size = sqrt(t);
+    int grid_dim = (n + block_size - 1) / block_size;
 
-    int grid_dim = (n + block_size - 1 )/ block_size;
-    if (b != grid_dim){
-        fprintf(stderr, "Número de blocos por grade inadequado. Use:\n\n\t %s %d %d %d %d\n\n", argv[0], n, iter_limit, t ,grid_dim*grid_dim);
+    if (b != grid_dim) {
+        fprintf(stderr, "Número de blocos por grade inadequado. Use:\n\n\t %s %d %d %d %d\n\n", argv[0], n, iter_limit, t, grid_dim*grid_dim);
         return 1;
     }
 
@@ -91,7 +88,6 @@ int main(int argc, char * argv[]) {
     cudaMallocManaged(&h, n * n * sizeof(double));
     cudaMallocManaged(&g, n * n * sizeof(double));
 
-
     if (h == NULL || g == NULL) {
         fprintf(stderr, "Erro ao alocar memória para h ou g\n");
         exit(EXIT_FAILURE);
@@ -104,8 +100,8 @@ int main(int argc, char * argv[]) {
     for (int iter = 0; iter < iter_limit; iter++) {
         jacobi_iteration<<<grid_size, threads_per_block>>>(h, g, n, iter_limit);
         cudaDeviceSynchronize();
-    }   
- 
+    }
+
     clock_gettime(CLOCK_MONOTONIC, &end);
     save_to_file(h, n);
 

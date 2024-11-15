@@ -27,23 +27,17 @@ void initialize(double ** h, int n){
 }
 
 // CUDA
-__global__ void jacobi_iteration(double ** h, double ** g, int n, int iter_limit){
-    int index = blockIdx.x * blockDim.x + threadIdx.x;
-    int stride = blockDim.x * gridDim.x;
-    // printf("index: %d\n", index);
-    // printf("stride: %d\n", stride);
-    for (int iter = index; iter < iter_limit; iter++) {
-        for (int i = 1; i < n - 1; i++) {
-            for (int j = 1; j < n - 1; j++) {
-                g[i][j] = 0.25 * (h[i - 1][j] + h[i + 1][j] + h[i][j - 1] + h[i][j + 1]);
-                __syncthreads();
-            }
-        }
-        for (int i = 1; i < n - 1; i++) {
-            for (int j = 1; j < n - 1; j++) {
-                h[i][j] = g[i][j];
-                __syncthreads();
-            }
+__global__ void jacobi_iteration(double ** h, double ** g, int n, int iter_limit) {
+    int i = blockIdx.x * blockDim.x + threadIdx.x;
+    int j = blockIdx.y * blockDim.y + threadIdx.y;
+
+    if (i > 0 && i < n - 1 && j > 0 && j < n - 1) {
+        for (int iter = 0; iter < iter_limit; iter++) {
+            g[i][j] = 0.25 * (h[i - 1][j] + h[i + 1][j] + h[i][j - 1] + h[i][j + 1]);
+            __syncthreads();
+
+            h[i][j] = g[i][j];
+            __syncthreads();
         }
     }
 }
@@ -74,14 +68,21 @@ int main(int argc, char * argv[]) {
 
     int n = atoi(argv[1]);
     int iter_limit = atoi(argv[2]);
-    int num_threads_per_block = atoi(argv[3]);
-    int num_blocks_grid = atoi(argv[4]);
+    int t = atoi(argv[3]);
+    int b = atoi(argv[4]);
 
-    // int N = n*n;
-    // int num_blocks = (N + block_size - 1)/block_size;
-    // printf("num_blocks: %d\n", num_blocks);
+    int block_size = sqrt(t);
+
+    int b = (n + block_size - 1 )/ block_size;
+
+    dim3 threads_per_block = dim3(block_size, block_size);
+    dim3 grid_size = dim3(b, b);
     
-    double** h; double** g;
+
+    printf("block_size: %d x %d\n", block_size, block_size);
+    printf("grid_size: %d x %d\n", b, b);
+
+    double **h, **g;
 
     cudaMallocManaged(&h, n * sizeof(double*));
     cudaMallocManaged(&g, n * sizeof(double*));
@@ -102,9 +103,8 @@ int main(int argc, char * argv[]) {
 
     struct timespec start, end;
     initialize(h, n);
-
     clock_gettime(CLOCK_MONOTONIC, &start);
-    jacobi_iteration<<<num_blocks_grid, num_threads_per_block>>>(h, g, n, iter_limit);
+    jacobi_iteration<<<grid_size, threads_per_block>>>(h, g, n, iter_limit);
     clock_gettime(CLOCK_MONOTONIC, &end);
     cudaDeviceSynchronize();
     save_to_file(h, n);

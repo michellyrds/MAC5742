@@ -20,6 +20,7 @@ cuda_$(TARGET):
 
 clean:
 	rm -f $(TARGET) $(TARGET).o cuda_$(TARGET).o
+	rm -f room.txt cuda_room.txt
 
 environment:
 	pyenv virtualenv 3.10.5 cuda

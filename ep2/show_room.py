@@ -2,7 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load heat data from file
-heat_data = np.loadtxt("room.txt")
+# heat_data = np.loadtxt("room.txt")
+heat_data = np.loadtxt("cuda_room.txt")
 
 extent = [0, 10, 0, 10]
 

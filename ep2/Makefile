@@ -10,7 +10,7 @@ LFLAGS = -L$(CUDAPATH)/lib64 -lcuda -lcudart -lm
 all: $(TARGET) cuda_$(TARGET)
 
 $(TARGET): $(TARGET).o
-	$(CC) $(CFLAGS) -o $(TARGET) heat.o
+	$(CC) $(CFLAGS) -o $(TARGET).o $(TARGET).c
 
 $(TARGET).o: $(TARGET).c
 	$(CC) $(CFLAGS) -c $(TARGET).c

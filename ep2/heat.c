@@ -96,7 +96,6 @@ int main(int argc, char * argv[]) {
     FILE *file = fopen("jacobi_iteration.txt", "a"); 
     fprintf(file, "%s %d %d\n", argv[0], n, iter_limit);
     fprintf(file, "Tempo de execução: %.9f segundos\n\n", elapsed_time);
-    fprintf(file, "\n");
     fclose(file);
 
     for (int i = 0; i < n; i++) {

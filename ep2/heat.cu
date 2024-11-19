@@ -108,7 +108,7 @@ int main(int argc, char *argv[]) {
     double elapsed_time = calculate_elapsed_time(start, end);
     // printf("Tempo de execução: %.9f segundos\n", elapsed_time);
     FILE *file = fopen("cuda_jacobi_iteration.txt", "a");
-    fprintf(file, "%s %d %d %d %d\n", argv[0], n, iter_limit, t, grid_dim*grid_dim);
+    fprintf(file, "%s %d %d %d %d\n", argv[0], n, iter_limit, block_size*block_size, grid_dim*grid_dim);
     fprintf(file, "Tempo de execução: %.9f segundos\n\n", elapsed_time);
     fclose(file);
 

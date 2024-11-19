@@ -47,7 +47,7 @@ double calculate_elapsed_time(struct timespec start, struct timespec end) {
 }
 
 void save_to_file(double ** h, int n) {
-    FILE * file = fopen("room.txt", "w");
+    FILE *file = fopen("room.txt", "w");
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
             fprintf(file, "%lf ", h[i][j]);
@@ -92,7 +92,12 @@ int main(int argc, char * argv[]) {
     save_to_file(h, n);
 
     double elapsed_time = calculate_elapsed_time(start, end);
-    printf("Tempo de execução: %.9f segundos\n", elapsed_time);
+    // printf("Tempo de execução: %.9f segundos\n", elapsed_time);
+    FILE *file = fopen("jacobi_iteration.txt", "a"); 
+    fprintf(file, "%s %d %d\n", argv[0], n, iter_limit);
+    fprintf(file, "Tempo de execução: %.9f segundos\n\n", elapsed_time);
+    fprintf(file, "\n");
+    fclose(file);
 
     for (int i = 0; i < n; i++) {
         free(h[i]);

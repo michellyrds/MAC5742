@@ -80,8 +80,8 @@ int main(int argc, char *argv[]) {
     dim3 threads_per_block = dim3(block_size, block_size);
     dim3 grid_size = dim3(grid_dim, grid_dim);
 
-    printf("block_size: %d x %d\n", block_size, block_size);
-    printf("grid_size: %d x %d\n", grid_dim, grid_dim);
+    // printf("block_size: %d x %d\n", block_size, block_size);
+    // printf("grid_size: %d x %d\n", grid_dim, grid_dim);
 
     double *h, *g;
 
@@ -106,7 +106,11 @@ int main(int argc, char *argv[]) {
     save_to_file(h, n);
 
     double elapsed_time = calculate_elapsed_time(start, end);
-    printf("Tempo de execução: %.9f segundos\n", elapsed_time);
+    // printf("Tempo de execução: %.9f segundos\n", elapsed_time);
+    FILE *file = fopen("cuda_jacobi_iteration.txt", "a");
+    fprintf(file, "%s %d %d %d %d\n", argv[0], n, iter_limit, t, grid_dim*grid_dim);
+    fprintf(file, "Tempo de execução: %.9f segundos\n\n", elapsed_time);
+    fclose(file);
 
     cudaFree(h);
     cudaFree(g);

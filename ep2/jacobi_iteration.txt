@@ -1,0 +1,6 @@
+./heat.o 100 1024
+Tempo de execução: 0.012744930 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.023218977 segundos
+

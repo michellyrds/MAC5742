@@ -57,6 +57,13 @@ void save_to_file(double *h, int n) {
     fclose(file);
 }
 
+bool is_perfect_square(int n){
+    if (ceil((double)sqrt(n)) == floor((double)sqrt(n))) {
+        return true;
+    }
+    return false;
+}
+
 int main(int argc, char *argv[]) {
     if (argc < 5) {
         fprintf(stderr, "Uso: %s <número de pontos> <limite de iterações> <número de threads por bloco> <número de blocos por grade>\n", argv[0]);
@@ -68,10 +75,15 @@ int main(int argc, char *argv[]) {
     int t = atoi(argv[3]);
     int b = atoi(argv[4]);
 
-    b = sqrt(b);
-    int block_size = sqrt(t);
-    int grid_dim = (n + block_size - 1) / block_size;
+    if(!is_perfect_square(t)){
+        fprintf(stderr, "O número de threads por bloco deve ser um quadrado perfeito.\n");
+        return 1;
+    }
 
+    int block_size = sqrt(t);
+    int grid_dim = n / block_size;
+
+    b = sqrt(b);
     if (b != grid_dim) {
         fprintf(stderr, "Número de blocos por grade inadequado. Use:\n\n\t %s %d %d %d %d\n\n", argv[0], n, iter_limit, t, grid_dim*grid_dim);
         return 1;

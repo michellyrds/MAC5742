@@ -6,19 +6,31 @@
 
 #define WALL_TEMP 20.0
 #define FIREPLACE_TEMP 100.0
+#define BODY_TEMP 37.0
 
 #define FIREPLACE_START 3
 #define FIREPLACE_END 7
 #define ROOM_SIZE 10
 
+#define BODY_START_X 4
+#define BODY_END_X 6
+#define BODY_START_Y 4
+#define BODY_END_Y 6
+
 void initialize(double *h, int n) {
     int fireplace_start = (FIREPLACE_START * n) / ROOM_SIZE;
     int fireplace_end = (FIREPLACE_END * n) / ROOM_SIZE;
+    int body_start_x = (BODY_START_X * n) / ROOM_SIZE;
+    int body_end_x = (BODY_END_X * n) / ROOM_SIZE;
+    int body_start_y = (BODY_START_Y * n) / ROOM_SIZE;
+    int body_end_y = (BODY_END_Y * n) / ROOM_SIZE;
 
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
             if (i == 0 || i == n - 1 || j == 0 || j == n - 1) {
                 h[i * n + j] = (i == n - 1 && j >= fireplace_start && j <= fireplace_end) ? FIREPLACE_TEMP : WALL_TEMP;
+            } else if (i >= body_start_x && i <= body_end_x && j >= body_start_y && j <= body_end_y) {
+                h[i * n + j] = BODY_TEMP;
             } else {
                 h[i * n + j] = 0.0;
             }
@@ -31,11 +43,20 @@ __global__ void jacobi_iteration(double *h, double *g, int n) {
     int i = blockIdx.y * blockDim.y + threadIdx.y + 1;
     int j = blockIdx.x * blockDim.x + threadIdx.x + 1;
 
+    int body_start_x = (BODY_START_X * n) / ROOM_SIZE;
+    int body_end_x = (BODY_END_X * n) / ROOM_SIZE;
+    int body_start_y = (BODY_START_Y * n) / ROOM_SIZE;
+    int body_end_y = (BODY_END_Y * n) / ROOM_SIZE;
+
     if (i < n - 1 && j < n - 1) {
-        g[i * n + j] = 0.25 * (h[(i - 1) * n + j] + h[(i + 1) * n + j] + h[i * n + (j - 1)] + h[i * n + (j + 1)]);
+        if (!(i >= body_start_x && i <= body_end_x && j >= body_start_y && j <= body_end_y)) {
+            g[i * n + j] = 0.25 * (h[(i - 1) * n + j] + h[(i + 1) * n + j] + h[i * n + (j - 1)] + h[i * n + (j + 1)]);
+        }
         __syncthreads();
 
-        h[i * n + j] = g[i * n + j];
+        if (!(i >= body_start_x && i <= body_end_x && j >= body_start_y && j <= body_end_y)) {
+            h[i * n + j] = g[i * n + j];
+        }
         __syncthreads();
     }
 }
@@ -47,7 +68,7 @@ double calculate_elapsed_time(struct timespec start, struct timespec end) {
 }
 
 void save_to_file(double *h, int n) {
-    FILE *file = fopen("cuda_room.txt", "w");
+    FILE *file = fopen("cuda_room_37.txt", "w");
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
             fprintf(file, "%lf ", h[i * n + j]);
@@ -114,7 +135,7 @@ int main(int argc, char *argv[]) {
 
     double elapsed_time = calculate_elapsed_time(start, end);
     // printf("Tempo de execução: %.9f segundos\n", elapsed_time);
-    FILE *file = fopen("cuda_jacobi_iteration.txt", "a");
+    FILE *file = fopen("cuda_jacobi_iteration_37.txt", "a");
     fprintf(file, "%s %d %d %d %d\n", argv[0], n, iter_limit, block_size*block_size, grid_dim*grid_dim);
     fprintf(file, "Tempo de execução: %.9f segundos\n\n", elapsed_time);
     fclose(file);

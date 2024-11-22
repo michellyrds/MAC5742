@@ -1,0 +1,3600 @@
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019189312 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019370549 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019830590 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019396667 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019338979 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019180859 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019631542 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.018946823 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019429143 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019123378 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.018931944 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019189377 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019107035 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019316487 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019220317 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019538160 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019195452 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019433119 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019221222 segundos
+
+./cuda_heat_37.o 50 1024 1 2500
+Tempo de execução: 0.019250277 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010423453 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010466753 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010211834 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010480302 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010394887 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010330424 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010362830 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010383294 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010446778 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010561875 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010247173 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010379102 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010446358 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010701835 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010187038 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010446916 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010626476 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010578845 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010279437 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010320993 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010260232 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010450407 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010360382 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010311004 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010148695 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010792416 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010377004 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010350255 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010588062 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010427777 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010553700 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010272032 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010241861 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010386501 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010417440 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010751697 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010234037 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010573184 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010462906 segundos
+
+./cuda_heat_37.o 50 1024 4 625
+Tempo de execução: 0.010146737 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007760070 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007901497 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007763771 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007687086 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007374269 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007886342 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007757485 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007731435 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007378738 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007551036 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.008413568 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007541258 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007563956 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007701193 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007654748 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007541746 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007810842 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007860359 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007575619 segundos
+
+./cuda_heat_37.o 50 1024 16 169
+Tempo de execução: 0.007591892 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007680798 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007519326 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007344585 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007602786 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007607954 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007593287 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007663268 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007608861 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007459263 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.008092019 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007850230 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007519395 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007645737 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007318044 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007631209 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007639451 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007585673 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007585324 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007690365 segundos
+
+./cuda_heat_37.o 50 1024 25 100
+Tempo de execução: 0.007592797 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007490130 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.008213330 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007587418 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007523864 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007495997 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007656072 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007737018 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007765022 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007925237 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007617379 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007526726 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007482517 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007499418 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007657118 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007761181 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007550541 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007781574 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007852602 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007451158 segundos
+
+./cuda_heat_37.o 50 1024 64 49
+Tempo de execução: 0.007681911 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007585181 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007694272 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007851903 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007053974 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007571562 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007361551 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007671504 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007854067 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007785553 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007550330 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007633999 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.008805854 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007896251 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007533637 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007744905 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007344159 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007583015 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007489778 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007618564 segundos
+
+./cuda_heat_37.o 50 1024 121 25
+Tempo de execução: 0.007839679 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007571210 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007449548 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007604943 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007544951 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007547465 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007455136 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007646638 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007835067 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007497319 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007643774 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007529794 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007447732 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007420494 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007607597 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007637697 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007782756 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007379148 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007540410 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007468683 segundos
+
+./cuda_heat_37.o 50 1024 256 16
+Tempo de execução: 0.007470988 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007650478 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007669964 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007866983 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007603824 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007676249 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007795536 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007874387 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007633016 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007823682 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007660185 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007611646 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007632458 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007801193 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007655574 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007762221 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007777866 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007842259 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007688330 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007883604 segundos
+
+./cuda_heat_37.o 50 1024 484 9
+Tempo de execução: 0.007694475 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008908235 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008880857 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008802007 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008984081 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008683977 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008921015 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008839860 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.009283906 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.009009641 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008872056 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008881205 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008951395 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008914239 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008768202 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008585219 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008865350 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008985476 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.009034085 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008899432 segundos
+
+./cuda_heat_37.o 50 1024 1024 4
+Tempo de execução: 0.008828824 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.055947516 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056674207 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056430673 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056425924 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.055874112 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056230365 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056150956 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056214861 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056454274 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.055882414 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056235597 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056788735 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056402238 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056105345 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056146336 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056121682 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056791593 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056470397 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056817784 segundos
+
+./cuda_heat_37.o 100 1024 1 10000
+Tempo de execução: 0.056150172 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020455520 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020406842 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020413477 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020823161 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020727058 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020538629 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020617129 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020508667 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020456567 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020565936 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020853609 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020550151 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020898794 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020513065 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020457751 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020660219 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020434355 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020492181 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020343351 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020552105 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020468925 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020642059 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020264361 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020575429 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020588071 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020826506 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020255770 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.021627646 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020750379 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020456000 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020466686 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020983785 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020331475 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020305075 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020314713 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020338107 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020319740 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020430996 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020753030 segundos
+
+./cuda_heat_37.o 100 1024 4 2500
+Tempo de execução: 0.020813582 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.011075584 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010681472 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010821852 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010287432 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010470694 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010272277 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010639289 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010458610 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010604996 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010720652 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010566025 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010549054 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010566654 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.011529894 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010803692 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010541371 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010599478 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010253418 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010708849 segundos
+
+./cuda_heat_37.o 100 1024 16 625
+Tempo de execução: 0.010579014 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009136041 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009094415 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.008937204 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.008825878 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009256235 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009192402 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009205601 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009163767 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009465408 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009194495 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009416658 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009097977 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.008922537 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009213213 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009380690 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009103284 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009358271 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009415679 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009079887 segundos
+
+./cuda_heat_37.o 100 1024 25 400
+Tempo de execução: 0.009210279 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009066338 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009105099 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009071016 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009398638 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009029531 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009170818 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.008890549 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009175707 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009089803 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009114945 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009068990 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.008860377 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009256791 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009070108 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.008849761 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009282492 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009177173 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009147839 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009180595 segundos
+
+./cuda_heat_37.o 100 1024 64 169
+Tempo de execução: 0.009270479 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009362738 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.008959759 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009044266 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009188555 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.008911289 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009470292 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009208809 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009648524 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009056557 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009212371 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.008821054 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009254274 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009103699 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.008799474 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.008912196 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.008561807 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009140295 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009128072 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009157195 segundos
+
+./cuda_heat_37.o 100 1024 121 100
+Tempo de execução: 0.009136034 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009198192 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009169837 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009149792 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009267683 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009237582 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009087424 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009232971 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009914125 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009050338 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009171791 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009142389 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.008871547 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009178356 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009160477 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009252457 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009165714 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009132610 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009143365 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009115639 segundos
+
+./cuda_heat_37.o 100 1024 256 49
+Tempo de execução: 0.009366925 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009234717 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009266354 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009194418 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009202310 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009266912 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009625473 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009198329 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009318454 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009170882 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009298898 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009289121 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009364758 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009012134 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009452897 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009185687 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009085466 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009441931 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009514425 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.008917988 segundos
+
+./cuda_heat_37.o 100 1024 484 25
+Tempo de execução: 0.009471474 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009413506 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009649845 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009447517 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009280390 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009417067 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009233177 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009268656 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009621560 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009574836 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009312376 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009458342 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009327112 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009575534 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009231081 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009459808 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009423491 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009413154 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009369504 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.010004423 segundos
+
+./cuda_heat_37.o 100 1024 1024 16
+Tempo de execução: 0.009304413 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.205286454 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166964978 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.167210886 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166383126 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.167123224 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166469658 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.167493508 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166698862 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166716742 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166947003 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166474872 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166959425 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166498265 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166476676 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.167260635 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.167072484 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166348857 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166877129 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.166858482 segundos
+
+./cuda_heat_37.o 200 1024 1 40000
+Tempo de execução: 0.167323607 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.046174795 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.046253855 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.046226687 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.045982452 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.046469030 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.045994186 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.046075899 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.046180030 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.046499619 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058166233 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058578221 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.059311404 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.059161877 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058986364 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058741992 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058978681 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058930491 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058894733 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.057849290 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.059063813 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058847518 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058887536 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.057672664 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058039112 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.057530046 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058819578 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.057900129 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.057713237 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.057754858 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.057503922 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.057798718 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058851910 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.057628098 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.057756810 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.059122327 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058897372 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058847017 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058530361 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058782830 segundos
+
+./cuda_heat_37.o 200 1024 4 10000
+Tempo de execução: 0.058958967 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019469728 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.020183356 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019998209 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019872636 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.020059039 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019475943 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019838413 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019938704 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019962589 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.020731251 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019596905 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019827517 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.020135653 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019892679 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019921033 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019910696 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019534187 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019817110 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019980676 segundos
+
+./cuda_heat_37.o 200 1024 16 2500
+Tempo de execução: 0.019654871 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016044128 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016771723 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016018566 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016332917 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016058933 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.015839775 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.015614121 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016106633 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016048457 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.015970305 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016167115 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016394864 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016130798 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016508563 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016007529 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016412044 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.015999358 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016145743 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016192675 segundos
+
+./cuda_heat_37.o 200 1024 25 1600
+Tempo de execução: 0.016048804 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.014281216 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013706780 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.014176735 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.014251814 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.014596336 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013677307 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013898631 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.014222480 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013991658 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013844783 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013973848 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013263433 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013820827 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013599434 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013922515 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013984254 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013800714 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013510318 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.014026576 segundos
+
+./cuda_heat_37.o 200 1024 64 625
+Tempo de execução: 0.013992494 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013902539 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013926355 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013810350 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013504939 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013577154 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013851486 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.014533825 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.014289315 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013816985 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013924958 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.014087616 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013862310 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013745957 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013353455 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.014450086 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013861333 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013627088 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013646363 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.014139366 segundos
+
+./cuda_heat_37.o 200 1024 121 361
+Tempo de execução: 0.013836050 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.013896112 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.013807484 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.014395191 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.013732616 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.013598242 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.013703212 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.013798475 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.013845686 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.014333521 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.014365298 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.013806784 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.013906727 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.014022102 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.014206341 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.013474974 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.014058977 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.013827945 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.014062608 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.014070292 segundos
+
+./cuda_heat_37.o 200 1024 256 169
+Tempo de execução: 0.014173654 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014985198 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014940220 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014723227 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014977445 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014905439 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.015154490 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014807105 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.015138916 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014706603 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014704020 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014827707 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.015020326 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.016127363 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014928835 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014913818 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.015018789 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014752767 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014752348 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.014759542 segundos
+
+./cuda_heat_37.o 200 1024 484 100
+Tempo de execução: 0.015213293 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016215639 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016632795 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016150897 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016275423 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016535508 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016182744 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016311390 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016224648 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016183303 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016117513 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016436823 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016541931 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.015724870 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016118839 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016334087 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016206978 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.015764889 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.015861338 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016504007 segundos
+
+./cuda_heat_37.o 200 1024 1024 49
+Tempo de execução: 0.016231909 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.708015615 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.668435821 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.668237788 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.667528037 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.667976452 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.667462473 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.668353325 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.667951090 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.669092037 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.668325227 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.669063268 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.667510486 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.672053913 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.667956505 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.668625125 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.668005960 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.668401784 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.668363695 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.667793425 segundos
+
+./cuda_heat_37.o 400 1024 1 160000
+Tempo de execução: 0.667180414 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208730870 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208773332 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.209091305 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.207990555 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208082598 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.207933206 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208916067 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208906209 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.207909380 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.209345923 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.207907486 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208468860 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208613842 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.207701238 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208831670 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208910930 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208348855 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.207655902 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.209666101 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.207900263 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.207772380 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208873336 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208164599 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208142939 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.209221969 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208396597 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208867661 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.209043448 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.207994444 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208140616 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208877918 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208089135 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208991050 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.209092105 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208310449 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208480301 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208676612 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.207923526 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208297170 segundos
+
+./cuda_heat_37.o 400 1024 4 40000
+Tempo de execução: 0.208241360 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.055190992 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.055281994 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.055148040 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.056420105 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.054986497 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.054294033 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.055285832 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.055730502 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.063335808 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.065193623 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.065247121 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.064525184 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.064198889 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.065268559 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.065069585 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.065548758 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.065308086 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.064236041 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.064079739 segundos
+
+./cuda_heat_37.o 400 1024 16 10000
+Tempo de execução: 0.064730718 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.055813604 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.055454417 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.054687293 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.054821875 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.054949194 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.056301086 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.054789817 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.053860804 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.055625034 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.056125436 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.055762966 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.055948810 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.055533611 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.056125296 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.056104412 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.055950415 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.055743757 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.056832564 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.055867303 segundos
+
+./cuda_heat_37.o 400 1024 25 6400
+Tempo de execução: 0.057476558 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.038405889 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.037812598 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.038439273 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.037286701 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.038354556 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.037017048 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.037816857 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.036977867 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.037434830 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.037855687 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.036370956 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.037225171 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.037727948 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.038002628 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.038051587 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.037692399 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.038019250 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.037869093 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.037567664 segundos
+
+./cuda_heat_37.o 400 1024 64 2500
+Tempo de execução: 0.037856871 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.038176110 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.037355839 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.037291864 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.038249929 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.037509345 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.037448166 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.036653595 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.036720780 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.037460595 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.036654432 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.038306708 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.037582816 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.037131229 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.037449140 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.037506061 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.036611130 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.037416942 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.037777317 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.037901773 segundos
+
+./cuda_heat_37.o 400 1024 121 1369
+Tempo de execução: 0.036657922 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037990539 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.038249924 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.038500230 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.039690444 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037614031 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.038300418 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.038079093 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037095955 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037443130 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037267691 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037569960 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037652299 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037273627 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037361206 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037394380 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037252046 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037354849 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.038685581 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037894713 segundos
+
+./cuda_heat_37.o 400 1024 256 625
+Tempo de execução: 0.037226554 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.044871731 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.044308262 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.044354635 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.044271107 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.044375517 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.044244845 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.044299320 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.043646874 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.043699604 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.045889438 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.045045280 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.044978373 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.046059706 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.045039344 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.044544944 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.043582898 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.044274454 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.044262511 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.044313704 segundos
+
+./cuda_heat_37.o 400 1024 484 361
+Tempo de execução: 0.045006027 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.047676849 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.047646398 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.047527252 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.047053874 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.047689139 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.046669196 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.046722204 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.047700104 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.046206993 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.047686204 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.047731880 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.046743643 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.048491669 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.047524802 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.045871479 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.046815088 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.045891733 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.046152165 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.047023838 segundos
+
+./cuda_heat_37.o 400 1024 1024 169
+Tempo de execução: 0.046705507 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.873725987 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.831177069 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.831514955 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.833179807 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.831490114 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.834156204 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.830840575 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.834793338 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.833464319 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.833546004 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.834275597 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.831137813 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.831160711 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.830127985 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.831708604 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.832996318 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.831284761 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.833275144 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.831780306 segundos
+
+./cuda_heat_37.o 800 1024 1 640000
+Tempo de execução: 2.832717512 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.845809457 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847198623 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.848627738 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846998635 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.848422511 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846687669 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.845809623 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847039625 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846716876 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.845685812 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847965718 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846054812 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846905095 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846091933 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.848099532 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846326559 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847060839 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846079013 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847508408 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846819632 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847315620 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846789011 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847694677 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847154449 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.848014791 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.849001543 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846354806 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847136996 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847592268 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847306120 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.848889933 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846740806 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846799875 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.845047788 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847239907 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847421755 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.847573154 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846094212 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846453943 segundos
+
+./cuda_heat_37.o 800 1024 4 160000
+Tempo de execução: 0.846640891 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.201246227 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200578626 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.199385133 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.199701715 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200350595 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200556202 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.198912799 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.201478994 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200044342 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200420917 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200398637 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200450458 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200433414 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200121021 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200892957 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200438301 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200419790 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200492214 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.202353512 segundos
+
+./cuda_heat_37.o 800 1024 16 40000
+Tempo de execução: 0.200754949 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.155468214 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.156071142 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.156573430 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.153765029 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.153866506 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.153265602 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.156454209 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.156064641 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.155298218 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.156192795 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.153937177 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.156010303 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.153371892 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.154980303 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.155550264 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.154004360 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.155177738 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.154949291 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.154869743 segundos
+
+./cuda_heat_37.o 800 1024 25 25600
+Tempo de execução: 0.157060687 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.110279318 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.110327715 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.110892301 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.110991124 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.110535278 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.110212199 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.108251514 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.110967795 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.114867790 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.111703695 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.110092771 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.109992619 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.108611605 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.110405092 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.109896028 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.108039756 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.109715981 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.107841689 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.110651834 segundos
+
+./cuda_heat_37.o 800 1024 64 10000
+Tempo de execução: 0.110139418 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.109290376 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.109554230 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.107840360 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.109510718 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.107342889 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.109852723 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.110147097 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.112318626 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.110886839 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.110847379 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.109821712 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.109713390 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.107053889 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.120357744 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.121992204 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.123180109 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.120171550 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.120250887 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.119814946 segundos
+
+./cuda_heat_37.o 800 1024 121 5329
+Tempo de execução: 0.118173221 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.121575188 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.124947613 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.125667659 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.112674732 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.109403223 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.109205507 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.109941549 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.107059120 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.112695820 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.108988583 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.107324789 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.109113945 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.110069353 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.108990397 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.109746342 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.107087610 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.109890841 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.110203233 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.108956802 segundos
+
+./cuda_heat_37.o 800 1024 256 2500
+Tempo de execução: 0.107613852 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.122090456 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.122598401 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.120746806 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.122144231 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.121110880 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.122671171 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.119998682 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.122338523 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.123259151 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.122124044 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.122469472 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.120620113 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.120956390 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.122286839 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.120521149 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.120193948 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.121158994 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.122093031 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.122399907 segundos
+
+./cuda_heat_37.o 800 1024 484 1369
+Tempo de execução: 0.122588405 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.128035628 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.126745757 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127424668 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127724002 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.126463044 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127739505 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.126278736 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127257400 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.126562005 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127643055 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127423618 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.129051863 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127657510 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.125478578 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127238890 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127433253 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127701717 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127677341 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127819954 segundos
+
+./cuda_heat_37.o 800 1024 1024 625
+Tempo de execução: 0.127726160 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.277370963 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.276091061 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.277524604 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.289610690 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.297926638 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.286064555 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.281175023 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.284043559 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.279182812 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.280805974 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.284722136 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.282971875 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.281812694 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.279760818 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.277690426 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.283086341 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.282327750 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.283187619 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.284500324 segundos
+
+./cuda_heat_37.o 1600 1024 1 2560000
+Tempo de execução: 11.284634231 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.338038634 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.336584706 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.337071560 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.334457884 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.339261049 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.333871183 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.335500383 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.329933367 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.336053632 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.335784418 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.334998797 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.340711688 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.337864919 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.336979690 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.336042598 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.340053101 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.333889053 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.335124686 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.340012492 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.338806240 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.334717198 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.338242242 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.338716400 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.334986137 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.336507068 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.333397721 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.335847006 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.335161590 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.338493114 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.335294595 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.339578978 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.336602324 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.333383014 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.335671306 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.341103148 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.335320186 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.335275870 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.337966441 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.336491448 segundos
+
+./cuda_heat_37.o 1600 1024 4 640000
+Tempo de execução: 3.331083548 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.782519435 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.782428691 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.782713372 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.772498032 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.780033344 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.782240433 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.778789637 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.778444732 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.777596712 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.779583869 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.781917337 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.778351974 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.779885603 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.777470416 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.777755880 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.784042925 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.776621290 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.779832732 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.778008525 segundos
+
+./cuda_heat_37.o 1600 1024 16 160000
+Tempo de execução: 0.777926451 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.591473599 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.599049075 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.602850744 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.602592601 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.604115911 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.602344253 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.602356118 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.602386466 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.591093010 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.591656360 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.592684206 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.597487419 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.591539120 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.598393185 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.602247157 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.598017277 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.603571638 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.602008462 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.597935521 segundos
+
+./cuda_heat_37.o 1600 1024 25 102400
+Tempo de execução: 0.596880527 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.423820011 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.425232953 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.429030675 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.426158421 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.427243938 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.433094808 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.431812020 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.427347628 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.424562192 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.430249505 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.426313621 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.428109854 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.427346974 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.426732862 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.431463118 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.427995602 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.433352626 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.427928947 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.421847412 segundos
+
+./cuda_heat_37.o 1600 1024 64 40000
+Tempo de execução: 0.427405648 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.428199204 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.434021431 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.431645326 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.428721661 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.433971039 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.428357665 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.427386738 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.428649420 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.428238638 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.427900249 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.427673774 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.428199756 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.427582494 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.428634273 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.425674716 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.428410044 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.428393939 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.430156584 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.433618704 segundos
+
+./cuda_heat_37.o 1600 1024 121 21316
+Tempo de execução: 0.433207216 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.433172942 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.436882502 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.434670697 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.433607242 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.435267987 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.438175905 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.439474154 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.441124480 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.434765713 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.438915289 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.440213762 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.437314154 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.428562522 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.433892211 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.435300115 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.439774385 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.436041142 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.434887802 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.435801023 segundos
+
+./cuda_heat_37.o 1600 1024 256 10000
+Tempo de execução: 0.440985230 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.478251110 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.478670680 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.478568953 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.483585404 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.478574805 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.478322697 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.478449134 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.477490444 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.483027427 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.480086745 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.478885130 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.478469525 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.477845592 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.478396402 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.478012573 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.478600175 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.478219425 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.484940439 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.471629752 segundos
+
+./cuda_heat_37.o 1600 1024 484 5329
+Tempo de execução: 0.480998194 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.503490791 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.501942980 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.499107902 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.497866124 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.496890675 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.498553768 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.497132716 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.497290037 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.494347534 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.501311164 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.501111306 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.497084573 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.497277585 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.502820405 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.501462561 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.502242158 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.497899474 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.498333717 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.497431229 segundos
+
+./cuda_heat_37.o 1600 1024 1024 2500
+Tempo de execução: 0.501540491 segundos
+

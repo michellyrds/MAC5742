@@ -1,800 +1,3600 @@
-./heat.o 100 1024
-Tempo de execução: 0.010164848 segundos
+./heat.o 50 1024
+Tempo de execução: 0.018192573 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.016866169 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.009479132 segundos
+./heat.o 50 1024
+Tempo de execução: 0.017225305 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.020148480 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.019049827 segundos
+./heat.o 50 1024
+Tempo de execução: 0.008786215 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.010701962 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.009568530 segundos
+./heat.o 50 1024
+Tempo de execução: 0.021052469 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.010419443 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.020177858 segundos
+./heat.o 50 1024
+Tempo de execução: 0.010220179 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.009053926 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.010814037 segundos
+./heat.o 50 1024
+Tempo de execução: 0.009118113 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.022227103 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.009661422 segundos
+./heat.o 50 1024
+Tempo de execução: 0.008937427 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.016766013 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.009556587 segundos
+./heat.o 50 1024
+Tempo de execução: 0.020088135 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.008767008 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.009456224 segundos
+./heat.o 50 1024
+Tempo de execução: 0.009199201 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.021859095 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.011452121 segundos
+./heat.o 50 1024
+Tempo de execução: 0.019012121 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.021623512 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.009372761 segundos
+./heat.o 50 1024
+Tempo de execução: 0.008897476 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.018950449 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.015645412 segundos
+./heat.o 50 1024
+Tempo de execução: 0.019513739 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.009275610 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.009370527 segundos
+./heat.o 50 1024
+Tempo de execução: 0.008954399 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.009189703 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.009352088 segundos
+./heat.o 50 1024
+Tempo de execução: 0.020905587 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.023383228 segundos
 
-./heat.o 100 1024
-Tempo de execução: 0.009381980 segundos
+./heat.o 50 1024
+Tempo de execução: 0.009158552 segundos
 
-
-./heat.o 100 1024
-Tempo de execução: 0.009352297 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009707448 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009336373 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009830091 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.017481648 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009513844 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.019831368 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009573210 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009261571 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009463836 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.018999332 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009709055 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009826600 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009449798 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009608760 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009436947 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009520968 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.019749653 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.010023906 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009522225 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009354253 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009698159 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009734198 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009753334 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009508117 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009544784 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009393225 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009831768 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009298378 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009520059 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009608690 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009385054 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009289857 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.020652370 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009290766 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009314303 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009225114 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.021642671 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009481017 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009892531 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009542270 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009632157 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009446026 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.019081257 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009450566 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.019278982 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009363891 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009303268 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.020250914 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009202694 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009290417 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009310950 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009331484 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009895534 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009413130 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009387777 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009201367 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009411524 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009258987 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009371993 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.018522934 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009204091 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009650666 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.016646327 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009431639 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009696064 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009403631 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009163232 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009664075 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009358514 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009406007 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.020274241 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009220294 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009443861 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009369339 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.016128234 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009292512 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009593394 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.020326134 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009390221 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009480389 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009327153 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.023093794 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009919281 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009408171 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009488421 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.023437629 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009359980 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009524110 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009526066 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009425842 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.020320127 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009677066 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.009329668 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.019836675 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.022816937 segundos
-
-
-./heat.o 100 1024
-Tempo de execução: 0.018971673 segundos
-
-
-./heat.o 100 1024
+./heat.o 50 1024
 Tempo de execução: 0.009205278 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.018802728 segundos
 
+./heat.o 50 1024
+Tempo de execução: 0.008811708 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008841042 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.018905120 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021732957 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020409067 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.017628793 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.016994053 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008830636 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.023835815 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.017613917 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021125595 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019482379 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008924924 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.010778022 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008920385 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019043969 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008948322 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.027238328 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020735029 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008820159 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.018104011 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.024244890 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008780417 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020945886 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021569801 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008860319 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009017118 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.010303223 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009150101 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009011600 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008928068 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008966970 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008912702 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020441404 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.025382576 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021837652 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021105898 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008770081 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020554900 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020011655 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.018094861 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008788869 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008809333 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008850890 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008881062 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008862414 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019704762 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.017374003 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019021060 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021827106 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.018761590 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009060422 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.018823262 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021188873 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008872333 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.015186284 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.023639344 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.012133550 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021006161 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020551059 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008874846 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019010095 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019524704 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008795294 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021325348 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020258693 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008870167 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020370233 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009029202 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009827446 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008967040 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009291395 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.014731532 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.018817046 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.022347093 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021049324 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.026432468 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.027878585 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.022226961 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.017720707 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008780487 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019387879 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008813593 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008812825 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008801999 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.018845542 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008921781 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008796621 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008905717 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.014023314 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008801650 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.018907074 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.022836838 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.012284133 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019610472 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008783281 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008846839 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008914517 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008874916 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019249170 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.016764475 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008745495 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009447566 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009607508 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008957332 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.014600783 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009464747 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008880643 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009679866 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019447526 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009493034 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019228914 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009899386 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020020106 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.015833876 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.012967486 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.018823471 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.010161648 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009507212 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.015772344 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008941547 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008992183 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008992184 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008942734 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019687160 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008738371 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.015887866 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.024249918 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008771198 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009355931 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009348318 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020108737 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008837479 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.022530293 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008776645 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008960265 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020708207 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.016582672 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.018836112 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021114557 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.019722221 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008880643 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.022395215 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008784189 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009473338 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.014474435 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.010617170 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009122861 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020237179 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.023200514 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009515244 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009210516 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008832800 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.017117326 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.020205820 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021130831 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021083617 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008771338 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.022419171 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021069857 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.022864984 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.008814780 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009553588 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.011569211 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.021038288 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009659681 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009854056 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.022022248 segundos
+
+./heat.o 50 1024
+Tempo de execução: 0.009280149 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.059678898 segundos
+
 ./heat.o 100 1024
-Tempo de execução: 0.009264644 segundos
+Tempo de execução: 0.037824624 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.047741749 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009563083 segundos
+Tempo de execução: 0.049302549 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.038823041 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009514192 segundos
+Tempo de execução: 0.043116131 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.038406073 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009417460 segundos
+Tempo de execução: 0.043907531 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.042741418 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009639351 segundos
+Tempo de execução: 0.047225602 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.048181484 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.010169457 segundos
+Tempo de execução: 0.049164747 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.047242155 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009610017 segundos
+Tempo de execução: 0.049066825 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.045890118 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009335744 segundos
+Tempo de execução: 0.036771029 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.048103469 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009476617 segundos
+Tempo de execução: 0.037072963 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.047545975 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.010045696 segundos
+Tempo de execução: 0.047605342 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.046232353 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009823805 segundos
+Tempo de execução: 0.046904111 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037212791 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009489119 segundos
+Tempo de execução: 0.036880754 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.038960772 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.010180982 segundos
+Tempo de execução: 0.038597095 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.038738668 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009339586 segundos
+Tempo de execução: 0.038015016 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.048693927 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009225323 segundos
+Tempo de execução: 0.038072148 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037829022 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009524669 segundos
+Tempo de execução: 0.049914937 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.048432292 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009358303 segundos
+Tempo de execução: 0.051200832 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.047552470 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009365497 segundos
+Tempo de execução: 0.048292395 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.047333928 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009378768 segundos
+Tempo de execução: 0.036947035 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036803365 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.019972101 segundos
+Tempo de execução: 0.036744138 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037365329 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009259336 segundos
+Tempo de execução: 0.036909598 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.045596564 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009476966 segundos
+Tempo de execução: 0.055463400 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037124856 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009282594 segundos
+Tempo de execução: 0.037338159 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.039154099 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009417390 segundos
+Tempo de execução: 0.036907082 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.038319115 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009481715 segundos
+Tempo de execução: 0.037093006 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036966520 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009795240 segundos
+Tempo de execução: 0.038820174 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037075336 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009665262 segundos
+Tempo de execução: 0.037120455 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.039418596 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009260314 segundos
+Tempo de execução: 0.036969523 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036793656 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009700114 segundos
+Tempo de execução: 0.038738807 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037007168 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009628805 segundos
+Tempo de execução: 0.036782272 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.039232882 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009390221 segundos
+Tempo de execução: 0.046532888 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.044739159 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.010430181 segundos
+Tempo de execução: 0.036744696 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.046026730 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009492820 segundos
+Tempo de execução: 0.036423623 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036688541 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009322404 segundos
+Tempo de execução: 0.037304633 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037666913 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009373390 segundos
+Tempo de execução: 0.047225529 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036894649 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.020651881 segundos
+Tempo de execução: 0.050508467 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036664025 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.020265720 segundos
+Tempo de execução: 0.047553724 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036558211 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009593674 segundos
+Tempo de execução: 0.049658607 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.046053339 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009196059 segundos
+Tempo de execução: 0.036765298 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.048211653 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.010150320 segundos
+Tempo de execução: 0.046088121 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.050726938 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.018533479 segundos
+Tempo de execução: 0.047757179 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036598092 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009593115 segundos
+Tempo de execução: 0.048057088 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036839821 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.011492768 segundos
+Tempo de execução: 0.047959796 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036729329 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009311509 segundos
+Tempo de execução: 0.044125789 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037186317 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.019046056 segundos
+Tempo de execução: 0.046986033 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.047841829 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.018468386 segundos
+Tempo de execução: 0.047395386 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.062767801 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009494077 segundos
+Tempo de execução: 0.046172351 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036838493 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009404958 segundos
+Tempo de execução: 0.047153238 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.046876307 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009852442 segundos
+Tempo de execução: 0.047959655 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036420967 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009584105 segundos
+Tempo de execução: 0.049320771 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.046917515 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009355370 segundos
+Tempo de execução: 0.049669641 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.046548460 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009522922 segundos
+Tempo de execução: 0.046714828 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.049087493 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.010110580 segundos
+Tempo de execução: 0.037974713 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.066757071 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009518662 segundos
+Tempo de execução: 0.041043300 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037251131 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009368920 segundos
+Tempo de execução: 0.037426578 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037360505 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.010365507 segundos
+Tempo de execução: 0.037218792 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.046179893 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009560359 segundos
+Tempo de execução: 0.036894646 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.038161474 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009287203 segundos
+Tempo de execução: 0.037129322 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037299322 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009393225 segundos
+Tempo de execução: 0.037250011 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.047474867 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009333090 segundos
+Tempo de execução: 0.047089050 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.048796243 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009572092 segundos
+Tempo de execução: 0.036887033 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.046453331 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009694177 segundos
+Tempo de execução: 0.047004469 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.047913487 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.010113304 segundos
+Tempo de execução: 0.046691638 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.046897677 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009669313 segundos
+Tempo de execução: 0.045603542 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.048184830 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.010089697 segundos
+Tempo de execução: 0.040429651 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.047039879 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009598632 segundos
+Tempo de execução: 0.047368423 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.047089467 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.019711447 segundos
+Tempo de execução: 0.038567615 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037049349 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009326664 segundos
+Tempo de execução: 0.037056753 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.047075569 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.010484518 segundos
+Tempo de execução: 0.041150229 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037244144 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.010185800 segundos
+Tempo de execução: 0.045966379 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.044817029 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009443162 segundos
+Tempo de execução: 0.045699646 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.051487882 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009227628 segundos
+Tempo de execução: 0.047334899 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036789810 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009330226 segundos
+Tempo de execução: 0.049166553 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.036642160 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009870181 segundos
+Tempo de execução: 0.046589456 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.046897886 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009361656 segundos
+Tempo de execução: 0.045662978 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.046704558 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009274283 segundos
+Tempo de execução: 0.048099407 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.048004071 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.010217160 segundos
+Tempo de execução: 0.044590804 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.047122432 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009340144 segundos
+Tempo de execução: 0.036787434 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.040996502 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009976412 segundos
+Tempo de execução: 0.037562211 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.044233693 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009273305 segundos
+Tempo de execução: 0.048095706 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.048268360 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009376811 segundos
+Tempo de execução: 0.049569620 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.038275666 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009338747 segundos
+Tempo de execução: 0.038448599 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.038182634 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009318702 segundos
+Tempo de execução: 0.038031352 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.038075633 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009310181 segundos
+Tempo de execução: 0.038269729 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.037927285 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009275190 segundos
+Tempo de execução: 0.038190526 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.038073189 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009295445 segundos
+Tempo de execução: 0.038140868 segundos
 
+./heat.o 100 1024
+Tempo de execução: 0.038108459 segundos
 
 ./heat.o 100 1024
-Tempo de execução: 0.009353275 segundos
+Tempo de execução: 0.038354868 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.048194604 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.037625069 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.041098891 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.051237349 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.067571092 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.049085670 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.048121896 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.037201467 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.048320112 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.049267404 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.037369930 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.037730185 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.037815533 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.037701339 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.037481890 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.047515093 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.036843517 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.038975150 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.036669955 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.036476138 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.036673167 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.048388628 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.036829548 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.048305932 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.047459286 segundos
+
+./heat.o 100 1024
+Tempo de execução: 0.045360620 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.157777440 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159265881 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159388807 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148638099 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158006942 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159264270 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149476988 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149475102 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.154858872 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159315117 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158810141 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.167113731 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150546920 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149026910 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.157150023 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.157750401 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.147751907 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148264071 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148105317 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149273593 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.155955550 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.157856349 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148938548 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148617546 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.147704198 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148011511 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.157299410 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.147816018 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148592329 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.155092620 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149020890 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148323569 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148648692 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148877011 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148624734 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148647640 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.171890746 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148336276 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148515635 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.153920636 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149156590 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158007820 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148058223 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.153663467 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.157801363 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.147759641 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158435054 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149442174 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149355148 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149446713 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148363994 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148959273 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149997990 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158158534 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.147720729 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148146497 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159226096 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148691697 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158601343 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158339216 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.161490846 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149499506 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.156160438 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158985829 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149547768 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149537776 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149638700 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150052036 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149673273 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149444534 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149448306 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149720624 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149726978 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149014083 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148561495 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148295949 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150213161 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.160381087 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.157881444 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150816537 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158853950 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159113488 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149382993 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149661248 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149531616 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.171883720 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148407061 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148844912 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148510081 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148470199 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148439534 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148303758 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149037606 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149341567 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148817668 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149152988 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149043260 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148989689 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149320260 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149220941 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158948643 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148077669 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159552019 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.151157845 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.166128857 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149867970 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.160359902 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158058828 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.157896926 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159226822 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149902469 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158806780 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159436492 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158386111 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159848915 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148995822 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159242042 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159914777 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.157971793 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.157658824 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.157400537 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.156842066 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159676815 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149249071 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159945155 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.157488120 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.156377601 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149397973 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159077690 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148755132 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158744116 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158479827 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149012012 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158770443 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158922633 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148967941 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159856653 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159211156 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.164717984 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149506222 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158130530 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159252360 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150447087 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150088858 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150505891 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149968374 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149662389 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149927306 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149688231 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149543026 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149684455 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149445868 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149424776 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.172311876 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.153142558 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149818345 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149962988 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.155213073 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149247927 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149614327 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.158939725 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.160921751 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149809258 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149769655 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149728867 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150175657 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149632273 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149166834 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149899353 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149051307 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149641557 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150060201 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149976947 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149810439 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149970660 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149590846 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150120611 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.152381383 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.152662924 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.153017241 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.159355281 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148601925 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148878017 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149090272 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.148699357 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.155797018 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150419049 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149730176 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149826561 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149620800 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149455480 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150457389 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149983430 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149756713 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149735271 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149957303 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.150875609 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.156148951 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.149223804 segundos
+
+./heat.o 200 1024
+Tempo de execução: 0.160308212 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.629194926 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.602113983 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.600802241 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.599376923 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.600978711 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.602116037 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.600650350 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.602143183 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.602479609 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608415822 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.600867246 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.599976026 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.610529541 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607405354 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607580366 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.609539752 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607122034 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605716971 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.604314153 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.631959752 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.627946654 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607898846 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.610012657 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.604895751 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.603883640 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.609060234 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.602130747 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.601837118 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.602034900 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.613507486 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.604426121 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.622134277 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.597828382 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.597015742 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.597889051 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.597010132 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.597526545 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.597234376 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.596643003 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.602266664 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.613930199 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.613430531 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608017070 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605183363 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.604562585 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.610155091 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.617015340 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.618714837 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.609151265 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.601405805 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.601178733 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608366052 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605327287 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.610385143 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.609347604 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605004858 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608716126 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.612497592 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.604412412 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.611051315 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.602176344 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.601499899 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608907573 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605155285 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.613717268 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.611631653 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.609658074 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.599926187 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605505147 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.604820254 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.611104352 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.601609308 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.597592872 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.614755745 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.611003108 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.613103647 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.604324566 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.615142710 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.612047998 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607779211 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608310504 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.604872859 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.610042812 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.611480118 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.610753312 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.612083474 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.619302714 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608869597 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605092584 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.618103816 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.615874462 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608694740 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607518704 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.615911797 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.598552298 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.606671609 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.601999338 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.597676361 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605206678 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607189458 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.606423895 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.599777004 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.601780389 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.611587823 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608055187 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.610368750 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.603325782 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.599358720 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.597778014 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608405267 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.599067723 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.596116965 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.599697834 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.598641930 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.601560269 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.600085855 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.598543842 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.599025894 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.599937758 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.634586391 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607384395 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.596389604 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.611179119 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.603374784 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.616795498 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.610666787 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608672460 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.610501445 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.611244085 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.617258580 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.643558732 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.610346705 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.615335476 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.606699801 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.609792397 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.613584190 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.609017252 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607331078 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.602645681 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607622168 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.617774199 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.602993473 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.600366720 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605808500 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.601222283 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.604724303 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.609899347 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605002399 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.604841122 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.616543537 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607517089 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605234731 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605761968 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.603042185 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.600580328 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.603522129 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.615142274 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607408274 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605099727 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608545801 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.611250758 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.604898132 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.609562415 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.603391585 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.621618788 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.618835164 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.613730428 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.611959190 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.614874517 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.601903933 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607268121 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.613363144 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.614796954 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608705893 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.611199502 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.609496012 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607924455 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.616850584 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.605128529 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.612604851 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.597638209 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.638387011 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.600562821 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.613182836 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.616725364 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.614715465 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607542106 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.620814115 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.626525068 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.612766654 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.603121677 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.607739439 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.606500966 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.609420208 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.606513029 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.608367089 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.600666554 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.602525706 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.601451089 segundos
+
+./heat.o 400 1024
+Tempo de execução: 0.602257492 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.359662669 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.345113445 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.333721503 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.373874054 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.361506817 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.352297838 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.365742798 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.362186183 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.352936700 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.368400070 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.376039086 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.352229907 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.383951432 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.367268105 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.349033696 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.339746868 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.351292025 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.348126208 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.336000460 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.333394442 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.358616340 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.349006497 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.346011665 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.369639943 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.339332857 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.359628912 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.357511038 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.352397373 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.361951097 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.355434073 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.332544934 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.351666781 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.374974133 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.339110270 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.350629254 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.543356685 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.385090287 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.352639056 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.341893943 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.324720670 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.320122545 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.314059251 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.316075084 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.323893359 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.316720260 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.319578823 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.321003928 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.315759343 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.316653152 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.323578902 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.309565924 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.323227850 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.322537268 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.320880961 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.312646890 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.328879191 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.317814584 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.322103272 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.318670022 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.317692043 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.313527325 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.334585937 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.319260902 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.326767832 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.313736453 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.322127741 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.320200599 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.320397183 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.322984988 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.320299424 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.319341433 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.324886822 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.317345205 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.320769387 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.317317652 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.324266959 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.321992572 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.334630746 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.313067982 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.321819456 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.335500465 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.320597737 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.342623118 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.322182110 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.326459787 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.319416238 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.315254419 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.321406269 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.325451649 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.330473859 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.322864934 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.315972675 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.314734496 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.312927239 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.304853585 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.322470400 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.324766985 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.313499270 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.331242431 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.308593294 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.327642102 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.331173655 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.315548856 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.321659996 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.314799461 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.307394288 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.315688240 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.321641398 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.323140107 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.308975036 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.313955005 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.316929849 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.318771210 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.330737583 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.320538906 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.331793369 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.317108605 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.326824287 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.315722056 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.312865150 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.315794602 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.331927883 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.601928420 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.342532476 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.355878039 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.344933453 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.339513798 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.360266011 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.337153231 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.347325970 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.351108068 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.337659686 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.369605149 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.346905082 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.334934509 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.358945946 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.363846862 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.339345899 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.341609477 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.359994850 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.867959377 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.628531485 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.566989626 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.708266188 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.494970788 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.907366333 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.550617826 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.397262484 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.352688867 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.356428654 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.374177756 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.353443096 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.362269616 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.363189075 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.342417471 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.350490810 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.347862036 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.365630488 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.378872345 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.385762333 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.360476502 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.363290037 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.373679300 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.383480134 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.347136983 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.358062990 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.369836052 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.349446853 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.396283802 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.392718931 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.372322610 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.358080572 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.373841249 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.361595672 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.360850927 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.369444111 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.384648699 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.590821475 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.520599203 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.782323149 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.658471068 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.719801591 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.601686908 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.739279970 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.685892574 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.596882988 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.711998425 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.559423542 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.683029153 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.634830050 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.600937435 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.598090973 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.594557260 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.588537140 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.579908947 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.618120620 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.585507745 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.654444639 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.617417344 segundos
+
+./heat.o 800 1024
+Tempo de execução: 3.599705176 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.387361708 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.339016820 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.650843836 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.839639225 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.263449590 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.211717533 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.081042266 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.311431241 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.108040404 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.232798096 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.085777425 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.029541482 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.195287895 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.290189569 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.884842470 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.154346112 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.746414941 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.806723440 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.892607836 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.905115029 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.574110653 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.823997822 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.933246295 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.749286386 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.789694139 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.015556244 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.025633723 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.489546548 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.546103562 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.851602544 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.712790579 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.046744974 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.558221517 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.835944948 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.798910873 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.373056162 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.974664818 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.820586941 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.740387367 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.537603704 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.927171537 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.741659311 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.622081885 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.856411408 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.067586584 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.005132658 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.873358556 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.935279371 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.797518376 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.742947513 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.728318190 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.185967789 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.527541028 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.067418470 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.583459990 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.670597306 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.828608381 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.475417137 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.022942907 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.142452267 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.867730895 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.258238938 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.218139938 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.132859667 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.438924252 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.760443407 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.423179475 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.651590026 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.077000004 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.890711205 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.649570129 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.807825556 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.699770659 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.955720237 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.090643532 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.718684123 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.683511078 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.629149142 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.834840991 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.899612018 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.934096412 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.772943182 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.601181387 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.945020014 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.636772388 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.988490335 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.075020413 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.605810823 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.821129649 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.518116616 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.511513558 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.452831736 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.954946955 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.672883290 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.832651957 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.001460439 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.018617146 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.009662185 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.788059808 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.821301368 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.642413594 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.808298205 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.017457664 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.837135691 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.021677658 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.048993002 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.342674657 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.322933531 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.933909736 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.364105090 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.330851590 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.833142064 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.083026989 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.061442347 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.399899561 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.558205434 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.113646583 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.001649139 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.447365891 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.914560615 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.438748226 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.876512742 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.530164150 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.187467340 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.732510344 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.002943678 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.750963107 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.483136501 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.750645904 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.605661943 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.093516609 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.048976558 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.942501031 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.828168842 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.993497814 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.640699453 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.878073050 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.822049201 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.669628950 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.916306982 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.077758276 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.451881803 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.816117589 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.044743814 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.626537066 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.523605036 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.546440310 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.892363825 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.954097660 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.518732725 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.968588891 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.944652796 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.941663102 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.883331220 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.385488260 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.772350720 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.391784075 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.828972615 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 14.098515296 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.888260082 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.485872929 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.229750558 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 16.657103900 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.248829124 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.187113416 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.221988703 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.235729257 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.966361099 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.191205562 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.175229948 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.538218368 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.071346853 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.077862564 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.086591255 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.080780619 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.087254725 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.081062971 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.031475399 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.011191812 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.058130046 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.015916645 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.030885711 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.092584272 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.091766621 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.070758030 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.275207818 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.038164064 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.026939920 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.000602970 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.095912814 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.037852476 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.059861191 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 13.166798972 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 12.896560012 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 12.847586115 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 12.840021079 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 12.850502463 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 12.869524236 segundos
+
+./heat.o 1600 1024
+Tempo de execução: 12.848057270 segundos
 
+./heat.o 1600 1024
+Tempo de execução: 12.860443209 segundos
 

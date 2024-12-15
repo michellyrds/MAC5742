@@ -17,6 +17,9 @@ $(TARGET).o: $(TARGET).c
 	$(CC) $(CFLAGS) -c $(TARGET).c $(LFLAGS)
 
 $(PARALLEL_TARGET):
+	smpicc -O3 $(PARALLEL_TARGET).c -o $(PARALLEL_TARGET)
+
+mpi:
 	mpicc -o $(PARALLEL_TARGET) $(PARALLEL_TARGET).c $(LFLAGS)
 
 run:
@@ -26,7 +29,6 @@ mpi-run:
 	mpirun -np $(N_PROCESSES) ./$(PARALLEL_TARGET) $(N)
 
 smpi-run:
-	smpicc -O3 $(PARALLEL_TARGET).c -o $(PARALLEL_TARGET)
 	smpirun -np $(N_PROCESSES) -hostfile ./simple_cluster_hostfile.txt -platform ./simple_cluster.xml ./$(PARALLEL_TARGET) $(N)
 
 clean:

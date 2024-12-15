@@ -119,19 +119,14 @@ int write_bmp_header(FILE *f, int width, int height) {
     return (ret != 17);
 }
 
-int get_pixel_index(int x, int y, int width) { 
-    return (y * width + x) * 3;
-}
-
 int save_to_file(unsigned char *pixels, int width, int height) {
-    FILE *output_file = fopen("julia_set.bmp", "wb");
+    FILE *output_file = fopen("julia.bmp", "wb");
     if (output_file == NULL) {
-        fprintf(stderr,
-                "save_to_file(): Erro ao abrir arquivo julia_set.bmp\n");
+        fprintf(stderr, "Erro ao abrir arquivo julia.bmp\n");
         return 1;
     }
     if (write_bmp_header(output_file, width, height) != 0) {
-        fprintf(stderr, "save_to_file(): Erro ao escrever cabeçalho BMP\n");
+        fprintf(stderr, "Erro ao escrever cabeçalho BMP\n");
         fclose(output_file);
         return 1;
     }
@@ -157,25 +152,22 @@ int main(int argc, char *argv[]) {
     }
 
     int n = atoi(argv[1]);
+    int width = 2 * n;
+    int height = n;
+    float tint_bias = 1.0;
 
-    size_t pixel_array_size = 6 * n * n;
-    unsigned char *pixels = malloc(pixel_array_size * sizeof(unsigned char));
+    unsigned char *pixels =
+        (unsigned char *)malloc(3 * height * width * sizeof(unsigned char));
 
     if (pixels == NULL) {
         fprintf(stderr, "Erro ao alocar memória para pixels\n");
         exit(EXIT_FAILURE);
     }
 
-    int width = 2 * n;
-    int height = n;
-    float tint_bias = 1.0;
-
     for (int y = 0; y < height; y++) {
         for (int x = 0; x < width; x++) {
-            int pixel_index = get_pixel_index(x, y, width);
-
             if (compute_julia_pixel(x, y, width, height, tint_bias,
-                                    &pixels[pixel_index]) != 0) {
+                                    &pixels[(y * width + x) * 3]) != 0) {
                 fprintf(stderr, "Erro ao calcular pixel (%d, %d)\n", x, y);
                 free(pixels);
                 exit(EXIT_FAILURE);
@@ -184,7 +176,7 @@ int main(int argc, char *argv[]) {
     }
 
     if (save_to_file(pixels, width, height) != 0) {
-        fprintf(stderr, "Erro ao salvar arquivo julia_set.bmp\n");
+        fprintf(stderr, "Erro ao salvar arquivo julia.bmp\n");
         free(pixels);
         exit(EXIT_FAILURE);
     }

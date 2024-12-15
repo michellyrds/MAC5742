@@ -17,10 +17,13 @@ $(TARGET).o: $(TARGET).c
 	$(CC) $(CFLAGS) -c $(TARGET).c $(LFLAGS)
 
 $(PARALLEL_TARGET):
-	mpicc -o $(PARALLEL_TARGET) $(PARALLEL_TARGET).c 
+	mpicc -o $(PARALLEL_TARGET) $(PARALLEL_TARGET).c $(LFLAGS)
 
 run:
 	./$(TARGET).o $(N)
+
+mpi-run: 
+	mpirun -np $(N_PROCESSES) ./$(PARALLEL_TARGET) $(N)
 
 smpi-run:
 	smpicc -O3 $(PARALLEL_TARGET).c -o $(PARALLEL_TARGET)

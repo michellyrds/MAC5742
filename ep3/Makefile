@@ -32,3 +32,4 @@ smpi-run:
 clean:
 	rm -f $(TARGET) $(TARGET).o
 	rm -f $(PARALLEL_TARGET) $(PARALLEL_TARGET).o
+	rm -f julia.bmp

@@ -1,6 +1,14 @@
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
+
+double calculate_elapsed_time(struct timespec start, struct timespec end) {
+    double start_sec = (double) start.tv_sec * 1e9 + (double) start.tv_nsec;
+    double end_sec = (double) end.tv_sec * 1e9 + (double) end.tv_nsec;
+    return (end_sec - start_sec) / 1e9;
+}
+
 
 /*
  * compute_julia_pixel(): calcula os valores RGB de um pixel em
@@ -164,6 +172,8 @@ int main(int argc, char *argv[]) {
         exit(EXIT_FAILURE);
     }
 
+    struct timespec start, end;
+    clock_gettime(CLOCK_MONOTONIC, &start);
     for (int y = 0; y < height; y++) {
         for (int x = 0; x < width; x++) {
             if (compute_julia_pixel(x, y, width, height, tint_bias,
@@ -174,6 +184,14 @@ int main(int argc, char *argv[]) {
             }
         }
     }
+    clock_gettime(CLOCK_MONOTONIC, &end);
+    
+    double elapsed_time = calculate_elapsed_time(start, end);
+
+    FILE *file = fopen("sequential_logs.txt", "a");
+    fprintf(file, "%s %d \n", argv[0], n);
+    fprintf(file, "Tempo de execução: %.9f segundos\n\n", elapsed_time);
+    fclose(file);
 
     if (save_to_file(pixels, width, height) != 0) {
         fprintf(stderr, "Erro ao salvar arquivo julia.bmp\n");

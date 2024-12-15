@@ -190,8 +190,26 @@ int main(int argc, char *argv[]) {
     double end_time = MPI_Wtime();
     double elapsed_time = end_time - start_time;
 
-    printf("[Processo %d]: Tempo de execução: %.9f segundos\n", rank,
-           elapsed_time);
+    double* elapsed_times;
+
+    if (rank == 0){
+        elapsed_times = (double*)malloc(n_proc * sizeof(double));
+    }
+    MPI_Gather(&elapsed_time, 1, MPI_DOUBLE, elapsed_times, 1, MPI_DOUBLE, 0, MPI_COMM_WORLD);
+
+    if(rank == 0){
+        FILE *file = fopen("parallel_logs.txt", "a");
+        fprintf(file, "%s %d %d\n", argv[0], n, n_proc);
+        fprintf(file, "Tempo de execução dos processos:\n");
+        for (int i = 0; i < n_proc; i++) {
+            fprintf(file, "Processo %d: %f segundos\n", i, elapsed_times[i]);
+        }
+        fclose(file);
+        free(elapsed_times);
+    }
+
+    // printf("[Processo %d]: Tempo de execução: %.9f segundos\n", rank,
+    //        elapsed_time);
 
     if (rank == 0) {
         FILE *output_file = fopen("julia.bmp", "wb");
@@ -220,7 +238,7 @@ int main(int argc, char *argv[]) {
                 3 * width * recv_rows * sizeof(unsigned char));
 
             if (recv_buffer == NULL) {
-                fprintf(stderr, "Erro ao alocar buffer do processo %d\n", i);
+                fprintf(stderr, "Erro ao alocar buffer da imagem\n");
                 MPI_Finalize();
                 return 1;
             }

@@ -13,21 +13,19 @@ NAMES=('sequential_julia' '1D_parallel_julia')
 make all
 
 for NAME in ${NAMES[@]}; do
-
-    for ((i = 1; i <= $ITERATIONS; i++)); do
-
-        N=${IMAGE[$((i-1))]} 
-
-        for ((j = 1; j <= $MEASUREMENTS; j++)); do
-            if [[ "$NAME" == 'sequential_julia' ]]; then
-                ./$NAME.o $N
-            else
-                # mpirun -np $N_PROC ./$NAME $N
-                smpirun -np $N_PROC -hostfile ./simple_cluster_hostfile.txt -platform ./simple_cluster.xml ./$NAME $N
-            fi
+    for ((n = 1; n <= 4; n++)); do
+        for ((i = 1; i <= $ITERATIONS; i++)); do
+            for ((j = 1; j <= $MEASUREMENTS; j++)); do
+                if [[ "$NAME" == 'sequential_julia' ]]; then
+                    ./$NAME.o $N
+                else
+                    # mpirun --oversubscribe -np $N_PROC ./$NAME $N
+                    smpirun -np $N_PROC -hostfile ./simple_cluster_hostfile.txt -platform ./simple_cluster_homogeneous.xml ./$NAME $N
+                fi
+            done
+            N_PROC=$(echo "$N_PROC * 2" | bc)
         done
-        N_PROC=$(echo "$N_PROC * 2" | bc)
-
+        N=${IMAGE[$((n))]}
+        N_PROC=2
     done
-    N_PROC=2
 done

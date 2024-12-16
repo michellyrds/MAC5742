@@ -204,6 +204,7 @@ int main(int argc, char *argv[]) {
         for (int i = 0; i < n_proc; i++) {
             fprintf(file, "Processo %d: %f segundos\n", i, elapsed_times[i]);
         }
+        fprintf(file, "\n");
         fclose(file);
         free(elapsed_times);
     }

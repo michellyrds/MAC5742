@@ -1,12 +1,12 @@
-TARGET = leapfrog
+TARGET = long-problem
 
 all: $(TARGET) $(TARGET)-fixed
 
-$(TARGET): $(TARGET).cpp
-	g++ -o $@ $^ -lm
+$(TARGET): $(TARGET).c
+	gcc -o $@ $^ -lm
 
-$(TARGET)-solved: $(TARGET)-fixed.cpp
-	g++ -o $@ $^ -lm
+$(TARGET)-solved: $(TARGET)-fixed.c
+	gcc -o $@ $^ -lm
 
 clean:
 	rm -f $(TARGET) $(TARGET)-fixed

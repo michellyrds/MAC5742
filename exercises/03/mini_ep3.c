@@ -36,7 +36,7 @@ int main() {
     }
 
     // Ordena o vetor usando Slowsort
-    radixSort(vetor, TAMANHO - 1);
+    radix_sort(vetor, TAMANHO - 1);
 
     // Calcula o Fibonacci para cada elemento e soma os pares
     for (int i = 0; i < TAMANHO; i++) {

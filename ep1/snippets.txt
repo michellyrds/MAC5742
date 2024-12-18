@@ -4,9 +4,7 @@ sudo sysctl kernel.perf_event_paranoid=2
 depois:
 sudo sysctl kernel.perf_event_paranoid=-1
 
-
 cat /proc/sys/kernel/perf_event_paranoid
-
 
 *depois do ep voltar config para 2*
 

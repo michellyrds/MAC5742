@@ -1,1 +1,0 @@
-pandoc /home/michelly/projects/MAC5742/exercises/07/report.md -o report.pdf -V colorlinks=true -V linkcolor=blue -V urlcolor=blue -V toccolor=gray --highlight-style haddock
